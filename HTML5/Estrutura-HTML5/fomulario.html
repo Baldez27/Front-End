@@ -8,15 +8,23 @@
 </head>
 <body>
 
+    <!--form = início do formulário-->
     <form action="">
-        <div> 
+        <!--div = contêiner genérico-->
+        <div>
+            <!--label = onde fica o nome do campo--> 
             <label for="input-nome">Nome</label>
+            <!--input = caixa do texto, onde coloca as informações-->
+            <!--type = tipo do input-->
             <input id="input-nome" name="nome" type="text">
         </div>
 
         <div> 
             <label for="input-email">E-mail</label>
             <input id="input-email" name="email" type="email">
+            <!--id = nome único do campo-->
+            <!--for = referênciando o id-->
+            <!--name = nome do campo-->
         </div>
 
         <div> 
@@ -26,10 +34,13 @@
 
         <div> 
             <label for="input-mensagem">Mensagem</label>
+            <!--textarea = campo de informações maior-->
+            <!--cols = número de colunas, rows = número de linhas-->
             <textarea id="input-mensagem" cols="30" rows="10"></textarea>
         </div>
 
         <button type="submit">Enviar</button>
+        <!--submit = tipo para submeter os dados, ou enviar-->
 
     </form>
     
