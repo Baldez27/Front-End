@@ -1,0 +1,20 @@
+/* body = seletor, vai deixar padronizado */
+body {
+    background-color:aqua;
+}
+
+
+/* .parte1 = classe da tag */
+.parte1 {
+    text-align: center;
+}
+
+
+/* p = a tag específica da classe onde tem a tag principal */
+.parte1 p{
+    font-weight: bold;
+    font-size: 20px;
+    color: brown;
+}
+
+

@@ -1,0 +1,32 @@
+/* p {
+    color: aqua;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a {
+    color:blue;
+    font-weight: 500;
+    text-decoration: none;
+} */
+
+
+
+/* section h1 {
+    color: green;
+    font-size: 50px;
+}
+
+section p {
+    color: blue;
+}
+
+p {
+    color: red;
+} */
+
+p, strong, a, span, h1, h2, h3, h4 {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
