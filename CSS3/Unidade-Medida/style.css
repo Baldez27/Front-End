@@ -1,0 +1,29 @@
+* {
+    color: #fff;
+}
+
+/* Definindo o tamanho do rem (ROOT - Principal do site) */
+html {
+    font-size: 16px;
+}
+
+body {
+    background: #050110;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+section .square {
+    background-color: #1C1824;
+    width: 33%;
+    height: 400px;
+}
+
+
+
+
+/* #1C1824 */
