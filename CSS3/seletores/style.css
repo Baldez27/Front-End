@@ -24,8 +24,54 @@ p {
     color: red;
 } */
 
+/* Multiplos elementos, mesmas declarações */
 p, strong, a, span, h1, h2, h3, h4 {
     color: red;
     font-weight: bold;
     font-size: 20px;
+    text-decoration: none;
+}
+
+/* Estilizando uma tag com mais de uma classe */
+.botao-enviar.botao-cadastrar {
+    background-color: blue;
+}
+
+/* Tag com nome do id, é recomendado uso de classes, id é para javascript */
+#btn-vermelho {
+    background-color: aquamarine;
+    border: 2px solid white;
+    width: 100px;
+    height: 50px;
+    color: white;
+}
+
+/* Micro interação do usuário com o site */
+#btn-vermelho:hover {
+    background-color: black;
+}
+
+/* Zerando as configurações padrões do navegador */
+input {
+    outline: none;
+}
+
+/* Interação com uma tag */
+input:focus {
+    border: 2px solid red;
+}
+
+/* Posição de uma tabela/lista: primeiro na lista */
+ul li:first-child {
+    color: blue;
+}
+
+/* Último na lista */
+ul li:last-child {
+    color: brown;
+}
+
+/* Escolhendo a posição na lista */
+ul li:nth-child(3){
+    color: yellow;
 }
