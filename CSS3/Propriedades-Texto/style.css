@@ -1,0 +1,26 @@
+/* Configurações de texto no CSS */
+p {
+    color: #c03131;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: lowercase;
+    text-align: left;
+    text-shadow: 10px 15px 15px blue;
+    text-indent: 150px;
+    letter-spacing: 15px;
+}
+
+/* Tirando a linha do link */
+a {
+    text-decoration: none;
+}
+
+/* Tirando a bolinha da lista, Colocando tipo de bolinha
+e colocando imagem */
+ul {
+    list-style: none;
+    list-style-type: decimal;
+    list-style-image: url("./img/points.png");
+}
+
