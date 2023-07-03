@@ -1,0 +1,24 @@
+h1 {
+    font-size: 80px;
+}
+
+/* Colocando uma condição para que quando a tela chegar
+a esse tamanho, diminua a fonte. */
+@media(max-width:1200px) {
+    h1 {
+        font-size: 40px;
+    }
+}
+
+/* Começa do maior e vai até o menor. */
+@media(max-width: 480px){
+    h1 {
+        font-size: 22px;
+    }
+}
+
+/* Ele vai se adaptar ao tamanho da tela. */
+.texto {
+    max-width: 800px;
+    width: 100%;
+}
