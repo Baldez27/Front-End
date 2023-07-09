@@ -10,6 +10,14 @@
     .s-card-featured .all-cards .card {
         width: 31%;
     }
+
+    .s-card-featured .second-area .all-imgs {
+        gap: 2rem 2%;
+    }
+
+    .s-card-featured .second-area .all-imgs .image {
+        width: 23.5%;
+    }
 }
 
 @media(max-width: 991px) {
