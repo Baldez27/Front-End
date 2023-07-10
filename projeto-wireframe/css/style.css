@@ -180,3 +180,25 @@ header nav .btn-primary {
     align-items: center;
     justify-content: center;
 }
+
+/* Section s-newsletter */
+
+.s-newsletter {
+    padding: 15.2rem 0rem;
+    background-color: var(--gray-colors-200);
+}
+
+.s-newsletter .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.s-newsletter h2 {
+    margin-bottom: 2rem;
+}
+
+.s-newsletter p {
+    text-align: center;
+    max-width: 69.4rem;
+}
