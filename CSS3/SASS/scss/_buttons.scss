@@ -1,0 +1,13 @@
+.s-hero {
+    width: 100%;
+    height: 800px;
+    background-color: $main-color;
+    .text {
+        h1 {
+            color: $color-text;
+        }
+        p {
+            color: $color-text;
+        }
+    }
+}
