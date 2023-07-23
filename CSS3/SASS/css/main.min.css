@@ -1,1 +1,11 @@
-.s-hero{width:100%;height:800px;background-color:#000}.s-hero .text h1{color:#fff}.s-hero .text p{color:#fff}/*# sourceMappingURL=main.min.css.map */
+.s-hero {
+	width: 100%;
+	height: 800px;
+	background-color: #000;
+}
+.s-hero .text h1 {
+	color: #fff;
+}
+.s-hero .text p {
+	color: #fff;
+} /*# sourceMappingURL=main.min.css.map */
