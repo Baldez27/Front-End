@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"sourceRoot": "",
+	"sources": [
+		"../scss/_reset.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,EACI,SACA",
+	"file": "main.min.css"
+}
