@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/_reset.scss","../scss/_grid.scss","../scss/_titles.scss","../scss/_variables.scss"],"names":[],"mappings":"AAAA,EACI,SACA,UACA,gBACA,qBACA,aACA,YACA,sBACA,+BAGJ,IACI,eACA,cAGJ,KACI,gBAGJ,UAEI,kBAGJ,OACI,+BACA,eC3BJ,WACI,WACA,mBACA,iBACA,cCJJ,GACC,gBACA,iBAGD,GACC,iBACA,eAGD,GACC,iBACA,iBAGD,GACC,eACA,iBAGD,MACC,iBACA,oBAGD,MACC,gBACA,sBAGD,YACC,iCACA,MCrBU","file":"main.css"}
