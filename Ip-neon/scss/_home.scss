@@ -87,5 +87,12 @@
     .left-area {
         width: 100%;
         max-width: 27.7rem;
+        .ilustra-mockup {
+            width: 100%;
+            max-width: 27.7rem;
+            .circle {
+                position: absolute;
+            }
+        }
     }
 }
