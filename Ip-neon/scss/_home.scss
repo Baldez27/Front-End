@@ -251,7 +251,10 @@
     .top {
         margin-bottom: 4rem;
         h2 {
-            
+            span {
+                display: block;
+                color: $gray-200;
+            }
         }
     }
 }
